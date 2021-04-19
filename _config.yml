@@ -1,7 +1,7 @@
 # Site settings
 title: Momoe Nomoto
 description: Jekyll Theme Minimal Resume
-baseurl: /momoenomoto.github.io # the subpath of your site, e.g. /blog
+# baseurl: /momoenomoto.github.io # the subpath of your site, e.g. /blog
 url: https://momoenomoto.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
