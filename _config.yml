@@ -8,9 +8,9 @@ url: https://momoenomoto.github.io/ # the base hostname & protocol for your site
 username: Momoe Nomoto
 user_description: Working on things right now. 
 user_title: Potential Engineer
-email: mn2668@nyu.edu or momoe.nomoto.mn@gmail.com
+email: mn2668@nyu.edu
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  momoenomoto
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
